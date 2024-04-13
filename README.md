@@ -1,1 +1,1 @@
-[![Gnomplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnomplus)]
+![Gnomplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnomplus&theme=dark)
